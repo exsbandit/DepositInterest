@@ -116,7 +116,7 @@
 
     <form id="interest-form" class="card p-4 shadow-sm mb-5">
         <div class="mb-3">
-            <label for="amount" class="form-label">Hesap Açılış Tutarı (TL):</label>
+            <label for="amount" class="form-label">Hesap Açılış Tutarı:</label>
             <input type="number" id="amount" name="amount" class="form-control" min="0" required>
         </div>
 
