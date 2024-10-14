@@ -1,6 +1,6 @@
 # Banka Mevduat Hesaplama Sistemi
 ![image](https://github.com/user-attachments/assets/3ed16476-df5f-4065-8568-c89761c13b53)
-![image](https://github.com/user-attachments/assets/7ec3628b-9add-463c-82c0-530d2d2482ed)
+![image](https://github.com/user-attachments/assets/587634c7-9c89-4e9f-8c7a-ddc66a27c9d2)
 
 ## Proje Özeti
 Bu proje, kullanıcıların farklı bankalardaki mevduat faiz oranlarını karşılaştırarak, yatıracakları miktara göre net getiri hesaplamalarına olanak tanır.
